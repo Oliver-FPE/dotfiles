@@ -15,27 +15,27 @@ A rice of a desktop.. ahhh soothing water!
 
 | 📚 Entry | ✨ App |
 |---------------------|------------|
-| Status Bar          | [YASB](#yasb) |
-| Window Manager      | [GlazeWM](#glazewm) |
-| App Launcher        | [Flow Launcher](#flowlauncher) |
-| Taskbar             | [Windhawk](#windhawk) |
-| Text Editor         | [VSCode](#vscode) |
-| Terminal            | [Windows Terminal](#windows-terminal) |
-| Browser             | [Zen](#zen) |
-| System Fetch        | [Fastfetch](#Fastfetch) |   
-| Shell Prompt        | [Oh My Posh](#ohmyposh) |
-| Audio Visualizer    | [Cava](#cava) |
-| Music Player        | [Spotify](#spotify) | 
-| Note Taking         | [Notesnook](#notesnook) |
+| Status Bar          | [YASB](https://github.com/amnweb/yasb) |
+| Window Manager      | [GlazeWM](https://github.com/glzr-io/glazewm) |
+| App Launcher        | [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) |
+| Taskbar             | [Windhawk](https://github.com/ramensoftware/windhawk) |
+| Text Editor         | [VSCode](https://github.com/microsoft/vscode) |
+| Terminal            | [Windows Terminal](https://github.com/microsoft/terminal) |
+| Browser             | [Zen](https://github.com/zen-browser) |
+| System Fetch        | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) |   
+| Shell Prompt        | [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh) |
+| Audio Visualizer    | [Cava](https://github.com/karlstav/cava) |
+| Music Player        | [Spotify](https://open.spotify.com/) | 
+| Note Taking         | [Notesnook](https://github.com/streetwriters/notesnook) |
 | Other Tools         | [Extras](#extras) |
-| File Explorer       | [Files](#files) |
+| File Explorer       | [Files](https://github.com/files-community/Files) |
 
 Others
 
 | 📚 Entry | ✨ App |
 |---------------------|------------|
-| Colorscheme         | [Catppuccin Mocha](#catppuccinmocha) |
-| Font                | [JetBrainsMono Nerd Font](#jetbrainsmononerdfont) |
+| Colorscheme         | [Catppuccin Mocha](https://github.com/catppuccin) |
+| Font                | [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/) |
 
 
 
