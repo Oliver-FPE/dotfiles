@@ -3,7 +3,7 @@
 <h3 align="center">✨ My Windows 11 Setup ✨</h3>
 
 <p align="center">
-A complete guide to my Windows 11 customization – from the YASB bar to all the little tweaks that make it clean, aesthetic, and productive.
+A rice of a desktop.. ahhh soothing water!
 </p>
 
 ---
@@ -11,7 +11,7 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Contents ( what i use ) 
 
 | 📚 Entry | ✨ App |
 |---------------------|------------|
@@ -28,8 +28,9 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 | Music Player        | [Spotify](#spotify) | 
 | Note Taking         | [Notesnook](#notesnook) |
 | Other Tools         | [Extras](#extras) |
+| File Explorer       | [Files](#files) |
 
-Other
+Others
 
 | 📚 Entry | ✨ App |
 |---------------------|------------|
