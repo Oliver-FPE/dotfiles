@@ -39,5 +39,12 @@ Others
 | Main profile :      | [powershell(pwsh)](https://github.com/PowerShell/PowerShell)  |
 | Credits :           | [sleepycathey's repos](https://www.youtube.com/@SleepyCatHey) |
 
+---
+
+# Details
+
+> [!NOTE]
+> Some stuff in my config may not work if you just copy and paste it. Make sure you add your weather api and wallpaper folder path to the yasb config. 
+
 
 
