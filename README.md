@@ -3,7 +3,7 @@
 <h3 align="center">✨ My Windows 11 Setup ✨</h3>
 
 <p align="center">
-A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )
+'A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )'
 </p>
 
 ---
